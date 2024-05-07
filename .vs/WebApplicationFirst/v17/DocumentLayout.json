@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|c:\\users\\hp\\source\\repos\\webapplicationfirst\\webapplicationfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|c:\\users\\hp\\source\\repos\\webapplicationfirst\\webapplicationfirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\viewmodels\\catagories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\viewmodels\\catagories\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\dataacceslayer\\prionacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\dataacceslayer\\prionacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\migrations\\20240507204004_categoriestablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\migrations\\20240507204004_categoriestablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|solutionrelative:webapplicationfirst\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C2C2335-57B4-4681-9583-123E9CE91D6F}|WebApplicationFirst\\WebApplicationFirst.csproj|C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\webapplicationfirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,69 +62,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplicationFirst\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplicationFirst\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwDAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T13:37:53.779Z",
-              "IsPinned": true
+              "WhenOpened": "2024-05-07T21:53:48.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationFirst\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "WebApplicationFirst\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T20:15:15.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplicationFirst\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplicationFirst\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T14:16:25.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplicationFirst\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplicationFirst\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAIEAAAAAAAAAAAAAAIsAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T13:41:51.512Z"
+              "WhenOpened": "2024-05-07T22:11:24.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplicationFirst\\appsettings.json",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\appsettings.json",
-              "RelativeToolTip": "WebApplicationFirst\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-06T14:23:18.294Z"
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationFirst\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplicationFirst\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T22:45:03.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T14:16:25.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\ViewModels\\Catagories\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "WebApplicationFirst\\ViewModels\\Catagories\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\ViewModels\\Catagories\\GetCategoryVM.cs",
+              "RelativeToolTip": "WebApplicationFirst\\ViewModels\\Catagories\\GetCategoryVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:56:34.566Z"
             },
             {
               "$type": "Document",
@@ -116,15 +147,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationFirst\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "WebApplicationFirst\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T20:15:15.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrionaContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\DataAccesLayer\\PrionaContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationFirst\\DataAccesLayer\\PrionaContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\DataAccesLayer\\PrionaContext.cs",
+              "RelativeToolTip": "WebApplicationFirst\\DataAccesLayer\\PrionaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:08:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240507204004_CategoriesTableCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Migrations\\20240507204004_CategoriesTableCreate.cs",
+              "RelativeDocumentMoniker": "WebApplicationFirst\\Migrations\\20240507204004_CategoriesTableCreate.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Migrations\\20240507204004_CategoriesTableCreate.cs",
+              "RelativeToolTip": "WebApplicationFirst\\Migrations\\20240507204004_CategoriesTableCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:40:05.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplicationFirst\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplicationFirst\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:06:00.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Program.cs",
               "RelativeDocumentMoniker": "WebApplicationFirst\\Program.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Program.cs",
               "RelativeToolTip": "WebApplicationFirst\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T13:41:33.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplicationFirst\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplicationFirst\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:07:45.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\WebApplicationFirst\\WebApplicationFirst\\appsettings.json",
+              "RelativeToolTip": "WebApplicationFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T14:23:18.294Z"
             }
           ]
         }

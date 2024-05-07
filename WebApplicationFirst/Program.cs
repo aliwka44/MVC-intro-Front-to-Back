@@ -1,3 +1,5 @@
+using WebApplicationFirst.DataAccesLayer;
+
 namespace WebApplicationFirst
 {
     public class Program
@@ -7,6 +9,8 @@ namespace WebApplicationFirst
             var builder = WebApplication.CreateBuilder(args);
 
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<PrionaContext>();
 
             var app = builder.Build();
 
