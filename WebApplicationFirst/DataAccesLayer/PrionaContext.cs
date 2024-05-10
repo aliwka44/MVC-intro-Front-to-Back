@@ -10,7 +10,8 @@ namespace WebApplicationFirst.DataAccesLayer
         {
             
         }
-        public DbSet<Category>Categories { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Slider> Sliders { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
             options.UseSqlServer(@"Server=DESKTOP-MPV3150;Database=PrionaFb;Trusted_Connection=True;TrustServerCertificate=True");

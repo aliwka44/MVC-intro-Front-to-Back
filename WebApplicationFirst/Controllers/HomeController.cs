@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using WebApplicationFirst.DataAccesLayer;
 using WebApplicationFirst.Models;
 using WebApplicationFirst.ViewModels.Catagories;
+using WebApplicationFirst.ViewModels.Sliders;
 
 
 namespace WebApplicationFirst.Controllers
@@ -21,15 +22,16 @@ namespace WebApplicationFirst.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var data =await _context.Categories
-                .Where(x=>x.IsDeleted == false)
-                .Select(x=> new GetCategoryVM
-                {
-                    Id= x.Id,
-                    Name= x.Name,
-                }
-                ).ToListAsync();
-            return  View(data);
+            var data = await _context.Sliders.Where(x => !x.IsDeleted).Select(s => new GetSliderVm
+            {
+                Discount = s.Discount,
+                Id = s.Id,
+                ImageUrl = s.ImageUrl,
+
+                Subtitle = s.Subtitle,
+                Title = s.Title
+            }).ToListAsync();
+            return View(data);
         }
         public async Task<IActionResult> Test(int? id)
         {

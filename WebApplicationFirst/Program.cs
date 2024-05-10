@@ -16,10 +16,10 @@ namespace WebApplicationFirst
 
             
             app.UseStaticFiles();
-
+            app.MapControllerRoute("areas", "{area:exists}/{controller=Slider}/{action=Index}/{id?}"  );
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}");
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }
